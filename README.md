@@ -19,16 +19,14 @@ Official sources come first. After them are free pages from [Ashore](https://try
 
 <br>
 
-<img src="assets/ielts.png" align="right" width="150" alt="">
-
-## IELTS
+## <img src="assets/ielts.png" height="44" alt=""> IELTS
 
 **Official**
 
 | Resource | What you get | Account |
 | :-- | :-- | :-- |
 | [IELTS preparation resources](https://ielts.org/take-a-test/preparation-resources) | Free practice materials and guides from the test owners | No |
-| [Speak & Improve](https://speakandimprove.com/) | Free speaking practice with automatic feedback, from Cambridge | |
+| [Speak & Improve](https://speakandimprove.com/) | Free speaking practice with automatic feedback, from Cambridge | — |
 
 **Free from Ashore**
 
@@ -41,16 +39,14 @@ Official sources come first. After them are free pages from [Ashore](https://try
 
 <br>
 
-<img src="assets/toefl.png" align="right" width="170" alt="">
-
-## TOEFL
+## <img src="assets/toefl.png" height="44" alt=""> TOEFL
 
 **Official**
 
 | Resource | What you get | Account |
 | :-- | :-- | :-- |
-| [TOEFL iBT preparation](https://www.ets.org/toefl/test-takers/ibt/prepare.html) | Free prep materials from ETS | |
-| [TOEFL iBT practice tests](https://www.ets.org/toefl/test-takers/ibt/prepare/practice-tests.html) | Official practice tests from ETS | |
+| [TOEFL iBT preparation](https://www.ets.org/toefl/test-takers/ibt/prepare.html) | Free prep materials from ETS | — |
+| [TOEFL iBT practice tests](https://www.ets.org/toefl/test-takers/ibt/prepare/practice-tests.html) | Official practice tests from ETS | — |
 
 **Free from Ashore**
 
@@ -64,16 +60,14 @@ Official sources come first. After them are free pages from [Ashore](https://try
 
 <br>
 
-<img src="assets/sat.png" align="right" width="150" alt="">
-
-## SAT
+## <img src="assets/sat.png" height="44" alt=""> SAT
 
 **Official**
 
 | Resource | What you get | Account |
 | :-- | :-- | :-- |
 | [Bluebook](https://bluebook.collegeboard.org/) | The College Board app for the digital SAT, with full-length practice tests | Free College Board account |
-| [SAT practice tests](https://satsuite.collegeboard.org/practice/practice-tests) | Full-length practice tests and answer explanations | |
+| [SAT practice tests](https://satsuite.collegeboard.org/practice/practice-tests) | Full-length practice tests and answer explanations | — |
 | [SAT dates and deadlines](https://satsuite.collegeboard.org/sat/dates-deadlines) | Test dates, registration deadlines and score release dates | No |
 | [Khan Academy Digital SAT](https://www.khanacademy.org/digital-sat) | Free official SAT practice, made with College Board | Free, to save progress |
 
@@ -87,9 +81,7 @@ Official sources come first. After them are free pages from [Ashore](https://try
 
 <br>
 
-<img src="assets/ap.png" align="right" width="140" alt="">
-
-## AP
+## <img src="assets/ap.png" height="44" alt=""> AP
 
 **Official**
 
@@ -126,7 +118,7 @@ Official sources come first. After them are free pages from [Ashore](https://try
 
 - Ashore scores are AI estimates, not official scores from IELTS, ETS or College Board.
 - Ashore has paid plans. Every Ashore link in this list is a page you can use for free.
-- A blank account cell means we haven't confirmed it.
+- "—" means we haven't confirmed whether an account is needed.
 - IELTS is a registered trademark of the University of Cambridge, the British Council and IDP Education. TOEFL is a registered trademark of ETS. SAT and AP are registered trademarks of College Board. None of them are affiliated with this list or with Ashore.
 
 ## Contributing

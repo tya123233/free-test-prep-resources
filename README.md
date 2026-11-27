@@ -36,7 +36,6 @@ Official sources come first. After them are free pages from [Ashore](https://try
 
 **Free from Ashore**
 
-
 | Resource | What you get | Account |
 | :-- | :-- | :-- |
 | [Speaking questions, Sep–Dec 2026](https://tryashore.com/ielts/speaking/questions/2026-september-december) | All 85 Part 2 cue cards this season (40 new), 55 Part 1 topics with 258 questions, and 9 stories that cover every card | No |

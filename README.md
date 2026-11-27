@@ -28,7 +28,11 @@ Official sources come first. After them are free pages from [Ashore](https://try
 | [IELTS preparation resources](https://ielts.org/take-a-test/preparation-resources) | Free practice materials and guides from the test owners | No |
 | [Speak & Improve](https://speakandimprove.com/) | Free speaking practice with automatic feedback, from Cambridge | — |
 
-**Free from Ashore**
+**Other free resources**
+
+| Resource | What you get | Account |
+| :-- | :-- | :-- |
+| [OpenExam Hub](https://openexamhub.org) | Free day-by-day study planner from official IELTS materials, plus a CLB/NCLC converter that runs in the browser | Free account to generate a plan; converter needs none |**Free from Ashore**
 
 | Resource | What you get | Account |
 | :-- | :-- | :-- |

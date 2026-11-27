@@ -32,7 +32,10 @@ Official sources come first. After them are free pages from [Ashore](https://try
 
 | Resource | What you get | Account |
 | :-- | :-- | :-- |
-| [OpenExam Hub](https://openexamhub.org) | Free day-by-day study planner from official IELTS materials, plus a CLB/NCLC converter that runs in the browser | Free account to generate a plan; converter needs none |**Free from Ashore**
+| [OpenExam Hub](https://openexamhub.org) | Free day-by-day study planner from official IELTS materials, plus a CLB/NCLC converter that runs in the browser | Free account to generate a plan; converter needs none |
+
+**Free from Ashore**
+
 
 | Resource | What you get | Account |
 | :-- | :-- | :-- |
